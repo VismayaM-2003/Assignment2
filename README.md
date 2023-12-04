@@ -18,14 +18,4 @@ Functions Overview
      * This function takes a positive integer as input and returns the sum of the cube of all positive integers smaller than the specified number.
 
 # Images tested with pytest and pylint.
-## 1. Function to Check Divisibility
-
-![Image1](picture1.png)
-
-## 2. Function to Find Maximum and Minimum
-
-![Image2](picture2.png)
-
-## 3. Function to Sum Cubes of Positive Integers
-
-![Image3](picture3.png)
+  - In Screenshots directory you can find the images that are tested with pytest and pylint.
