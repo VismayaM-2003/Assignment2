@@ -16,6 +16,6 @@ def is_divisible(number, divisor):
     """
     return number % divisor == 0
 
-RESULT = is_divisible(12, 6)
-print(RESULT)
+result = is_divisible(12, 6)
+print(result)
     
