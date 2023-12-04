@@ -18,4 +18,4 @@ Functions Overview
      * This function takes a positive integer as input and returns the sum of the cube of all positive integers smaller than the specified number.
 
 # Images tested with pytest and pylint.
-  - In Screenshots directory you can find the images that are tested with pytest and pylint.
+  - In [Screenshots](https://github.com/VismayaM-2003/Assignment2/tree/main/Screenshots) directory you can find the images that are tested with pytest and pylint.
